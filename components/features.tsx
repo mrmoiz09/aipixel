@@ -128,6 +128,7 @@ const FeatureCards = ({ features }: FeatureCardsProps) => {
             <img
               className={classNames("absolute max-w-none", imageClassName)}
               src={image}
+              alt=""
             />
           </div>
         ))}
