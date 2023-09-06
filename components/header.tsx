@@ -66,7 +66,7 @@ export const Header = () => {
                 <Link href="#">Testimonials</Link>
               </li>
               <li className="md:hidden lg:block">
-                <Link href="#">leading Projects</Link>
+                <Link href="#"> Projects</Link>
               </li>
               <li className="md:hidden lg:block">
                 <Link href="#">Contact us </Link>

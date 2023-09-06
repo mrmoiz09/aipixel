@@ -101,10 +101,10 @@ export const HeroImage = () => {
 
         <img
           className={classNames(
-            "relative z-10 transition-opacity delay-[680ms]",
+            "relative w-full z-10 transition-opacity delay-[680ms]",
             inView ? "opacity-100" : "opacity-0"
           )}
-          src="/img/herob.png"
+          src="/img/heroc.gif"
           alt="Hero image"
         />
       </div>
